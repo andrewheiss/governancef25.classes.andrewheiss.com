@@ -34,7 +34,7 @@ date: "2024-08-29"
   - **How to read and annotate an article**
 
     - [Zotero](https://www.zotero.org/) + [Zotero Connector](https://www.zotero.org/download/connectors) + [GSU's Zotero guide](https://research.library.gsu.edu/zotero)
-    - [Class Zotero group library](https://www.zotero.org/groups/compaf24)
+    - [Class Zotero group library](https://www.zotero.org/groups/governancef25)
     - [What are DOIs?](https://apastyle.apa.org/style-grammar-guidelines/references/dois-urls)
     - Taking and storing notes:
       - [Zotero](https://www.zotero.org/)
