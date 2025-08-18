@@ -1,0 +1,50 @@
+---
+title: "Institutions"
+date: "2024-09-19"
+---
+
+## Readings
+
+- {{< fa file-pdf >}}&ensp;Chapter 1 in [@North:1990]
+
+- {{< fa file-pdf >}}&ensp;Chapters 1, 11, and 12 in [@AcemogluRobinson:2012]
+
+- {{< fa file-pdf >}}&ensp;[@DiMaggioPowell:1983]
+
+- {{< fa file-pdf >}}&ensp;[@Alston:2017]
+
+### Really good but optional
+
+- {{< fa file-pdf >}}&ensp;Chapter 2 in [@Ostrom:1990]
+
+
+## Article discussion reminder
+
+**How to discuss an article in a seminar**
+
+- Who wrote the article? What’s their background?
+- General summary of the article
+- Strengths
+- Weaknesses
+- How does it connect to other readings?
+- How does it connect to the broader course themes?
+- How does it connect to current events?
+- What does it add to our Global Bureaucracy Toolkit^™^?
+
+
+## Plan for the day
+
+- **Overview of different conceptions of institutions**
+
+- **Institutions and comparative public administration**
+
+  - [@North:1990]
+  - [@AcemogluRobinson:2012]
+  - [@DiMaggioPowell:1983]
+  - [@Alston:2017]
+
+## Peanut butter regulations!
+
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Grandma goes to Washington,"](https://www.marketplace.org/2017/10/25/business/uncertain-hour/s02-1-peanut-butter-grandma-goes-washington) season 2, episode 1
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Wars,"](https://www.marketplace.org/2017/11/10/business/uncertain-hour/s02-2-peanut-butter-wars) season 2, episode 2
+- {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Verdict,"](https://www.marketplace.org/2017/11/22/business/uncertain-hour/s02-3-peanut-butter-verdict) season 2, episode 3

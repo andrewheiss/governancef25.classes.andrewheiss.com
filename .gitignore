@@ -1,0 +1,14 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+/_site/
+/_freeze/
+
+# caching stuff
+**/*_cache/*
+/temp
+
+/.luarc.json

@@ -1,0 +1,285 @@
+---
+title: "Comparative public administration"
+author: "PMAP 8441 / 4441"
+date: 2024-08-29
+date-format: long
+format:
+  revealjs: 
+    slide-number: true
+    preview-links: auto
+    theme: [simple, custom.scss]
+    title-slide-attributes:
+      data-background-color: "#bb292c"
+---
+
+```{r include=FALSE}
+clrs <- MetBrewer::met.brewer("Tam")
+clrs_lt <- colorspace::lighten(clrs, 0.9)
+
+knitr::opts_chunk$set(fig.retina = 3, collapse = TRUE)
+options(digits = 3, width = 75)
+```
+
+# {background-image="img/bureaucratics-min.jpg"}
+
+::: {.notes}
+[Jan Banning's "Bureaucratics"](https://www.janbanning.com/gallery/bureaucratics/)
+:::
+
+# Plan for today {background-color="`r clrs[5]`" .white}
+
+## {background-color="`r clrs_lt[5]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- **Who am I and why am I here?**
+- **Who are you all and why are *you* here?**
+- **Building our Global Bureaucracy Toolkit^™^**
+- **How this class works**
+- **Things they don't teach you in college/grad school**
+:::
+
+# Who am I and why<br>am I here? {background-color="`r clrs[3]`" .white}
+
+##
+
+![](img/byu.png){width="20%" fig-align="center"}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img/jordan.png){width="100%"}
+:::
+
+::: {.column width="50%"}
+![](img/italy.png){width="72%"}
+:::
+
+::::
+
+##
+
+![](img/egypt.png){fig-align="center" width="25%"}
+
+![](img/auc.jpeg){fig-align="center" width="100%"}
+
+## {background-image="img/mogamma-min.jpg"}
+
+## {background-image="img/tahrir-min.png"}
+
+##
+
+\ 
+
+![](img/ripse.jpg){fig-align="center"}
+
+\ 
+
+![](img/duke-sanford.jpg){fig-align="center"}
+
+## Main questions {background-color="`r clrs_lt[3]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- How do nonprofits work differently in different countries?
+- How are nonprofits regulated in different countries?
+- How do the public and nonprofit sectors in different countries shape human rights?
+:::
+
+##
+
+\ 
+
+![](img/civicus-map-min.png){fig-align="center"}
+
+##
+
+\ 
+
+![](img/plot-mfx-e1b-min.png){fig-align="center"}
+
+##
+
+\ 
+
+![](img/plot-likely-diffs-1-min.png){fig-align="center"}
+
+##
+
+\ 
+
+![](img/fig-transp-crackdown-1-min.png){fig-align="center"}
+
+##
+
+\ 
+
+![](img/fig-home-office-map-1-min.png){fig-align="center"}
+
+##
+
+\ 
+
+![](img/lhi.jpg){fig-align="center"}
+
+##
+
+\ 
+
+![](img/family-min.jpg){fig-align="center"}
+
+## COVID concerns {background-color="`r clrs_lt[3]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- When [wastewater](https://www.cdc.gov/nwss/rv/COVID19-currentlevels.html) [levels](https://data.wastewaterscan.org/tracker?charts=CiUQACABSABSBjMxZWQzY1oGTiBHZW5leF2KAQY4NDIyYzm4AckM&selectedChartId=8422c9) are moderate or above, I'll wear a mask
+- When they're lower than that, I'll *sometimes* wear a mask
+:::
+
+# Who are you all and<br>why are *you* here? {background-color="`r clrs[6]`" .white}
+
+## {background-color="`r clrs_lt[6]`"}
+
+\ 
+
+::: {style="font-size: 1.3em;"}
+- Name
+- Where you're from
+- Major / concentration
+- Most boring fact about yourself
+- Why you're taking this class
+:::
+
+# Building our<br>Global<br>Bureaucracy<br>Toolkit^™^ {background-color="`r clrs[4]`" .white}
+
+## Bureaucracies matter {background-color="`r clrs_lt[4]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- Good governance saves lives
+- Administrative burdens hurt people
+- Project 2025, Agenda47, and Schedule F
+- We can learn from other countries
+:::
+
+##
+
+### Good governance saves lives
+
+\ 
+
+```{r}
+#| echo: false
+#| out-width: 100%
+library(tidyverse)
+library(plotly)
+
+# vdem_small <- vdem |>
+#   select(
+#     country_name, country_text_id, year,
+#     region = e_regionpol_6C,
+#     life_exp = e_pelifeex, govt_eff = e_wbgi_gee
+#   ) |>
+#   filter(year == 2020) |>
+#   mutate(region = factor(region,
+#     labels = c(
+#       "Eastern Europe and Central Asia",
+#       "Latin America and the Caribbean",
+#       "Middle East and North Africa",
+#       "Sub-Saharan Africa",
+#       "Western Europe and North America",
+#       "Asia and Pacific"
+#     )
+#   ))
+# saveRDS(vdem_small, "data/vdem_small.rds")
+
+vdem_small <- readRDS("data/vdem_small.rds")
+
+plt <- ggplot(vdem_small, aes(x = govt_eff, y = life_exp, color = region)) +
+  geom_point(aes(text = country_name)) +
+  labs(x = "Government effectiveness (2020)", y = "Life expectancy (2020)", color = "Region") +
+  theme_bw(base_size = 16)
+
+ggplotly(plt)
+```
+
+##
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img/administrative-burden-min.jpg){width="100%"}
+:::
+
+::: {.column width="50%"}
+:::
+
+::::
+
+##
+
+:::: {.columns}
+
+::: {.column width="50%"}
+![](img/administrative-burden-min.jpg){width="100%"}
+:::
+
+::: {.column width="50%"}
+![](img/burden-reduction-initiative-min.png){width="100%"}
+:::
+
+::::
+
+::: {.notes}
+<https://www.whitehouse.gov/omb/information-regulatory-affairs/burden-reduction-initiative/>
+:::
+
+##
+
+![](img/project2025-min.png){fig-align="center"}
+
+::: footer
+[Charles F. Kettering Foundation](https://www.kettering.org/news/the-schedule-f-threat-to-democracy-a-project-2025-explainer/){preview-link="true"}
+:::
+
+##
+
+![](img/agenda47-min.png){fig-align="center"}
+
+::: footer
+[Agenda47](https://www.donaldjtrump.com/agenda47/agenda47-president-trumps-plan-to-dismantle-the-deep-state-and-return-power-to-the-american-people){preview-link="true"}
+:::
+
+##
+
+### Other countries know stuff
+
+\ 
+
+```{r}
+#| echo: false
+#| out-width: 100%
+ggplotly(plt)
+```
+
+# How this class works {background-color="`r clrs[1]`" .white}
+
+## How this class works {background-color="`r clrs_lt[1]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- Class website
+- iCollege
+- Weekly assignments
+- Mini presentation
+- Essays
+- Final project
+:::
+
+# Break! {background-color="`r clrs[5]`" .white}
+
+# Things they don't teach you in college/grad school {background-color="`r clrs[8]`" .white}
+
+## Secret skills {background-color="`r clrs_lt[8]`"}
+
+::: {.incremental style="font-size: 1.3em;"}
+- AI and writing
+- How to read and annotate an article
+- How to summarize, synthesize, and write about articles
+- How do discuss an article in a seminar
+:::

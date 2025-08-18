@@ -1,0 +1,74 @@
+---
+title: "Middle East and North Africa"
+date: "2024-11-21"
+---
+
+::: {.callout-important}
+# No class!
+
+**NOTE**: We will not be meeting in class for this session. We'll cover these readings in the following session with Asia.
+:::
+
+## Readings
+
+- {{< fa file-pdf >}}&ensp;[@Nisar:2018]
+
+- {{< fa file-pdf >}}&ensp;[@Farazmand:1999]
+
+- {{< fa file-pdf >}}&ensp;[@DixonBhuiyanUstuner:2018]
+
+- {{< fa file-pdf >}}&ensp;[@SchomakerBauer:2020]
+
+- {{< fa file-pdf >}}&ensp;[@Ali:2018]
+
+
+**One** of these country-specific articles:
+
+- {{< fa file-pdf >}}&ensp;[@Barsoum:2018]
+
+- {{< fa file-pdf >}}&ensp;[@Jreisat:2018]
+
+- {{< fa file-pdf >}}&ensp;[@UstunerYavuz:2018]
+
+- {{< fa file-pdf >}}&ensp;[@SarkerAlAthmay:2018]
+
+
+::: {.content-hidden}
+
+## Article discussion reminder
+
+**How to discuss an article in a seminar**
+
+- Who wrote the article? What’s their background?
+- General summary of the article
+- Strengths
+- Weaknesses
+- How does it connect to other readings?
+- How does it connect to the broader course themes?
+- How does it connect to current events?
+- What does it add to our Global Bureaucracy Toolkit^™^?
+
+
+## Plan for the day
+
+- **Mini presentation and group discussion**
+
+- **What even is the "Middle East"?**
+
+- **Orientalism, historical essentialism, and modernization theory**
+
+- **Public administration in the Middle East and North Africa**
+
+  - [@Farazmand:1999]
+  - [@DixonBhuiyanUstuner:2018]
+  - [@SchomakerBauer:2020]
+
+- **Specific countries**
+
+  - [@Ali:2018]
+  - Egypt
+  - Jordan
+  - The UAE
+  - Turkey
+
+:::

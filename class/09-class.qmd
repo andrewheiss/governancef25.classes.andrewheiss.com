@@ -1,0 +1,18 @@
+---
+title: "Representative bureaucracy and philanthropy"
+date: "2024-10-24"
+---
+
+## Readings
+
+- {{< fa file-pdf >}}&ensp;[@Thoma:2024]
+
+- {{< fa file-pdf >}}&ensp;[@Sahn:2024]
+
+- {{< fa file-pdf >}}&ensp;[@RiccucciRyzin:2017]
+
+- {{< fa file-pdf >}}&ensp;[@Gibson:2017]
+
+## Plan for the day
+
+Discuss this neat stuff.

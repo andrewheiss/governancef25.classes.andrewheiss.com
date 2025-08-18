@@ -1,0 +1,43 @@
+---
+title: "Rediscovery of bureaucracy and good governance"
+date: "2024-09-05"
+---
+
+## Readings
+
+- {{< fa brands youtube >}}&ensp;[Summary vs. synthesis](https://www.youtube.com/watch?v=R_rnkM7jvlY)
+
+- {{< fa file-pdf >}}&ensp;(***Skim***) [@Olsen:2005]
+
+- {{< fa file-pdf >}}&ensp;[@EvansRauch:1999]
+
+- {{< fa file-pdf >}}&ensp;[@Fukuyama:2013]
+
+- {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
+
+
+## Plan for the day
+
+- [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
+
+- **How to discuss an article in a seminar**
+
+  - Who wrote the article? What’s their background?
+  - General summary of the article
+  - Strengths
+  - Weaknesses
+  - How does it connect to other readings?
+  - How does it connect to the broader course themes?
+  - How does it connect to current events?
+  - What does it add to our Global Bureaucracy Toolkit^™^?
+
+- **Why does bureaucracy matter and is it going anywhere?**
+
+  - Together: Sections 3.1, 3.2, and 3.3 in [@MeierHill:2005]
+
+- **Defining and measuring governance**
+
+  - How can we measure abstract concepts like "governance?"
+  - [@EvansRauch:1999]
+  - [@Fukuyama:2013]
+  - [@HolmbergRothsteinNasiritousi:2009]

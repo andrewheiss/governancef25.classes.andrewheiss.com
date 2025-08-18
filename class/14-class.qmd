@@ -1,0 +1,61 @@
+---
+title: "Asia"
+date: "2024-12-05"
+---
+
+## Readings
+
+- {{< fa file-pdf >}}&ensp;[@Roberts:2017]
+- {{< fa file-pdf >}}&ensp;[@Kim:2017]
+- {{< fa file-pdf >}}&ensp;[@Gomide:2022]
+- {{< fa file-pdf >}}&ensp;[@YenLiuWon:2022]
+
+**One** of these empirical articles on China:
+
+- {{< fa file-pdf >}}&ensp;[@HouLiuYang:2018]
+- {{< fa file-pdf >}}&ensp;[@ZhiPearson:2017]
+
+
+## Plan for the day
+
+### The Middle East and North Africa
+
+- **What even is the "Middle East"?**
+
+- **Orientalism, historical essentialism, and modernization theory**
+
+- **Public administration in the Middle East and North Africa**
+
+  - [@Farazmand:1999]
+  - [@DixonBhuiyanUstuner:2018]
+  - [@SchomakerBauer:2020]
+
+- **Specific countries**
+
+  - [@Nisar:2018]
+  - [@Ali:2018]
+  - Egypt
+  - Jordan
+  - The UAE
+  - Turkey
+
+### Asia
+
+- **Public administration in East Asia**
+
+  - [@Kim:2017]
+  - [@Roberts:2017]
+
+- **Not China**
+
+  - [@Gomide:2022]
+  - [@YenLiuWon:2022]
+
+- **China**
+
+  - [@HouLiuYang:2018]
+  - [@ZhiPearson:2017]
+
+### Final policy brief
+
+- Q&A time!
