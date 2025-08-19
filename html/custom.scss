@@ -91,7 +91,9 @@ ol {
 
 .course-title {
   font-size: 3.5rem;
+  border-bottom: 3px solid $gray-200;
   margin-top: 0;
+  padding-bottom: 0.2em;
 }
 
 .course-subtitle {
@@ -152,6 +154,15 @@ div.sidebar-item-container .sidebar-link>code{
 
 .nav-footer-right {
   text-align: right;
+}
+
+// Temporarily hide the middle div since it has unmodifiable GitHub links as of Quarto 1.3.something: https://github.com/quarto-dev/quarto-cli/issues/5283
+.nav-footer-center {
+  display: none;
+}
+
+.nav-footer-left {
+  flex-grow: 3;
 }
 
 
