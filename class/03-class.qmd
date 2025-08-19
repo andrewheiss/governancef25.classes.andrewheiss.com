@@ -1,6 +1,6 @@
 ---
 title: "Quality of government and governance outcomes"
-date: "2024-09-12"
+date: "2025-09-11"
 ---
 
 ## Readings
@@ -11,6 +11,8 @@ date: "2024-09-12"
 
 - {{< fa file-pdf >}}&ensp;[@JindraVaz:2019]
 
+
+::: {.content-hidden}
 
 ## Plan for the day
 
@@ -116,3 +118,5 @@ ggplot(data = wdi_small,
   geom_line()
 ```
 ````
+
+:::

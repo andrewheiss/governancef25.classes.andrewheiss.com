@@ -1,6 +1,6 @@
 ---
 title: "Representative bureaucracy and philanthropy"
-date: "2024-10-24"
+date: "2025-10-23"
 ---
 
 ## Readings
@@ -13,6 +13,10 @@ date: "2024-10-24"
 
 - {{< fa file-pdf >}}&ensp;[@Gibson:2017]
 
+::: {.content-hidden}
+
 ## Plan for the day
 
 Discuss this neat stuff.
+
+:::

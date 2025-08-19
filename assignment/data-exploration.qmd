@@ -1,6 +1,6 @@
 ---
 title: "Data-based essay"
-date: "2024-09-26"
+date: "2025-09-25"
 ---
 
 ## Instructions

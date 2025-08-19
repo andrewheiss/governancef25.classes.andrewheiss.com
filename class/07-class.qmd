@@ -1,6 +1,6 @@
 ---
 title: "Civil society and good governance"
-date: "2024-10-10"
+date: "2025-10-09"
 ---
 
 ## Readings
@@ -13,6 +13,8 @@ date: "2024-10-10"
 
 - {{< fa file-pdf >}}&ensp;[@FoleyEdwards:1996]
 
+
+::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -40,3 +42,5 @@ date: "2024-10-10"
   - [@HerreroCangas:2004]
   - [@FoleyEdwards:1996]
   - [@AhmedPotter:2006]
+
+:::

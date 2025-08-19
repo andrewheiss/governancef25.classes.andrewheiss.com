@@ -1,6 +1,6 @@
 ---
 title: "Latin America"
-date: "2024-11-07"
+date: "2025-11-06"
 ---
 
 ## Readings
@@ -16,6 +16,7 @@ date: "2024-11-07"
 
 - {{< fa file-pdf >}}&ensp;[@PeetersCampos:2021]
 
+::: {.content-hidden}
 
 ## Plan for the day
 
@@ -47,3 +48,5 @@ date: "2024-11-07"
   - [@Zurbriggen:2021]
   - [@MunoBriceno:2023]
   - [@PeetersCampos:2021]
+
+:::

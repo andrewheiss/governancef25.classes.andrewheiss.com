@@ -1,6 +1,6 @@
 ---
 title: "Theory in real life essay"
-date: "2024-11-07"
+date: "2025-11-06"
 references:
 - id: DoshiKelleySimmons:2019
   author:

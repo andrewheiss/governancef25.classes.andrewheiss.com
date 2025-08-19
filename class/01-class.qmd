@@ -1,6 +1,6 @@
 ---
 title: "Introduction, historical development of public administration and management, and recent critiques"
-date: "2024-08-29"
+date: "2025-08-28"
 ---
 
 ## Readings
@@ -22,9 +22,11 @@ date: "2024-08-29"
 - {{< fa file-pdf >}}&ensp;[@Powner:2016]
 
 
+::: {.content-hidden}
+
 ## Materials for today
 
-- [**Slides**](/slides/2024-08-29.html)
+- [**Slides**](/slides/2025-08-28.html)
 
 - **How the class works**
   - [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
@@ -61,3 +63,5 @@ date: "2024-08-29"
   	- How does it connect to the broader course themes?
   	- How does it connect to current events?
   	- What does it add to our Global Bureaucracy Toolkit^™^?
+
+:::

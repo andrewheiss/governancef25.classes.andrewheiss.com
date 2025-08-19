@@ -1,6 +1,6 @@
 ---
 title: "Bureaucratic structures, politicization, and bureaucratic behavior"
-date: "2024-10-03"
+date: "2025-10-02"
 ---
 
 ## Readings
@@ -13,6 +13,7 @@ date: "2024-10-03"
 
 - {{< fa file-pdf >}}&ensp;[@SuzukiHur:2020]
 
+::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -53,3 +54,5 @@ date: "2024-10-03"
   - [@ChristensenOpstrup:2018]
   - [@OliverosSchuster:2018]
   - [@SuzukiHur:2020]
+
+:::

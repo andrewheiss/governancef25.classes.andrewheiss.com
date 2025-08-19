@@ -1,6 +1,6 @@
 ---
 title: "Civil society across countries"
-date: "2024-10-17"
+date: "2025-10-16"
 ---
 
 ## Readings
@@ -13,6 +13,8 @@ date: "2024-10-17"
 
 - {{< fa file-pdf >}}&ensp;[@vanZyl:2014]
 
+
+::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -38,3 +40,5 @@ date: "2024-10-17"
   - [@vanZyl:2014]
 
 - **Theory in real life essay**
+
+:::

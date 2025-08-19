@@ -1,6 +1,6 @@
 ---
 title: "Institutions"
-date: "2024-09-19"
+date: "2025-09-18"
 ---
 
 ## Readings
@@ -17,6 +17,7 @@ date: "2024-09-19"
 
 - {{< fa file-pdf >}}&ensp;Chapter 2 in [@Ostrom:1990]
 
+::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -48,3 +49,5 @@ date: "2024-09-19"
 - {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Grandma goes to Washington,"](https://www.marketplace.org/2017/10/25/business/uncertain-hour/s02-1-peanut-butter-grandma-goes-washington) season 2, episode 1
 - {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Wars,"](https://www.marketplace.org/2017/11/10/business/uncertain-hour/s02-2-peanut-butter-wars) season 2, episode 2
 - {{< fa podcast >}} The Uncertain Hour, ["The Peanut Butter Verdict,"](https://www.marketplace.org/2017/11/22/business/uncertain-hour/s02-3-peanut-butter-verdict) season 2, episode 3
+
+:::

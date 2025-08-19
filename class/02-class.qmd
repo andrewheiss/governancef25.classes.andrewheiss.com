@@ -1,6 +1,6 @@
 ---
 title: "Rediscovery of bureaucracy and good governance"
-date: "2024-09-05"
+date: "2025-09-04"
 ---
 
 ## Readings
@@ -15,6 +15,8 @@ date: "2024-09-05"
 
 - {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
 
+
+::: {.content-hidden}
 
 ## Plan for the day
 
@@ -41,3 +43,5 @@ date: "2024-09-05"
   - [@EvansRauch:1999]
   - [@Fukuyama:2013]
   - [@HolmbergRothsteinNasiritousi:2009]
+
+:::

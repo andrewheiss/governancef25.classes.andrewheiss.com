@@ -10,7 +10,7 @@ To help you do all this successfully, there are two assignments that serve as [c
 
 - **Reading reports**: Before class on Thursdays, you should complete all the readings and write a short summary of what you read. **You should [follow this template and instructions](/assignment/reading-report.qmd).** These are due by 11:59 PM on the day before class (e.g., the reading report for Thursday, September 5's seminar is due at 11:59 PM on Wednesday, September 4).
 
-- **Mini presentation and discussion leading**: Once during the semester, you will be responsible for preparing a presentation and leading the discussion for a class session. During the first day of class, I will provide a spreadsheet where you will select the week you want to be responsible for. [**Complete instructions and details for this assignment are here.**](/assignment/presentation-discussion.qmd)
+- **Check-in and warm-up**: TODO [**Complete instructions and details for this assignment are here.**](/assignment/check-in-warm-up.qmd)
 
 
 ## Essays
@@ -37,7 +37,7 @@ You will write your brief about one specific topic. Topic examples include (but 
 
 The narrower the issue is, the better your policy brief will be! I *highly encourage* you to consult with me about your chosen topic before you get started.
 
-[**Complete instructions and details for this assignment are here.**]()
+[**Complete instructions and details for this assignment are here.**](/assignment/policy-brief.qmd)
 
 
 ## Exams
