@@ -18,26 +18,26 @@ csl: files/bib/chicago-author-date.csl
 description-meta: "Explore how the public and nonprofit sectors work around the world and learn how political institutions shape government and civil society"
 
 website:
-  title: "Comparative Public Administration"
+  title: "Governance Around the World"
   site-url: "https://governancef25.classes.andrewheiss.com"
 
-  announcement:
-    icon: calendar-check
-    dismissable: true
-    content: "**Reminder!** The final deadline for all assignments other than the final policy brief is **Tuesday, December 10 at 11:59 PM**"
-    type: danger
-    position: below-navbar
+  # announcement:
+  #   icon: calendar-check
+  #   dismissable: true
+  #   content: "**Reminder!** The final deadline for all assignments other than the final policy brief is **Tuesday, December 10 at 11:59 PM**"
+  #   type: danger
+  #   position: below-navbar
 
   favicon: "/files/favicon-512.png"
 
   twitter-card:
-    image: "/files/social-image-f24.png"
+    image: "/files/social-image-f25.png"
     card-style: summary_large_image
     creator: "@andrewheiss"
     # site: "@andrewheiss"
 
   open-graph:
-    image: "/files/social-image-f24.png"
+    image: "/files/social-image-f25.png"
     locale: en_US
 
   navbar:

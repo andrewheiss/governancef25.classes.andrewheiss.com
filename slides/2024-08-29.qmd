@@ -1,5 +1,5 @@
 ---
-title: "Comparative public administration"
+title: "Governance Around the World"
 author: "PMAP 8441 / 4441"
 date: 2024-08-29
 date-format: long

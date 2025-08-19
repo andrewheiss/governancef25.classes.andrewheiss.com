@@ -20,7 +20,7 @@ withr::with_dir(here::here(), {
 
 # Governance Around the World <a href='https://governancef25.classes.andrewheiss.com/'><img src='files/favicon-512.png' align="right" height="139" /></a>
 
-[PMAP 8441 • Fall 2025](https://governancef25.classes.andrewheiss.com/)  
+[PMAP 8441/4441 • Fall 2025](https://governancef25.classes.andrewheiss.com/)  
 [Andrew Heiss](https://www.andrewheiss.com/) • Andrew Young School of Policy Studies • Georgia State University
 
 ---

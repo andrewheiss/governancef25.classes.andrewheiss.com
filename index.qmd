@@ -1,8 +1,8 @@
 ---
-title: "Comparative Public Administration"
+title: "Governance Around the World"
 subtitle: "Explore how the public and nonprofit sectors work around the world and learn how political institutions shape government and civil society"
 details: |
-  PMAP 8441/4441 • Fall 2024<br>Andrew Young School of Policy Studies<br>Georgia State University
+  PMAP 8441/4441 • Fall 2025<br>Andrew Young School of Policy Studies<br>Georgia State University
 sidebar: false
 toc: false
 page-layout: full
