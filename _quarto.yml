@@ -106,7 +106,7 @@ website:
         - section: "Preparation"
           contents:
             - assignment/reading-report.qmd
-            - assignment/presentation-discussion.qmd
+            - assignment/check-in-warm-up.qmd
         - section: "Essays"
           contents:
             - assignment/data-exploration.qmd

@@ -1,0 +1,40 @@
+---
+title: "Check-in and warm-up"
+reference-location: margin
+---
+
+Participation in class is essential for a good seminar! This means that you (1) need to be in class and (2) need to be thinking about the readings and their connections to each other and to the world in general.
+
+## In-class activity
+
+To help get you ready to discuss the readings (since often you'll have read them days previously and they're no longer fresh!), we'll spend the first 20–30 minutes of every class doing a warm-up writing and discussion activity.
+
+::: {.column-margin}
+[![](/files/check-in-warm-up/check-in-warm-up_f25-min.png){.border}](/files/check-in-warm-up/check-in-warm-up_f25.pdf)
+
+Check-in and warm-up sheet; [PDF here](/files/check-in-warm-up/check-in-warm-up_f25.pdf).
+:::
+
+I will hand out [this paper](/files/check-in-warm-up/check-in-warm-up_f25.pdf) at the beginning of class and you'll spend some good writing time doing these three things (on paper with pen or pencil!):
+
+1. Report your attendance and level of preparation.
+2. Write 1–2 paragraphs about (1) what you most want to talk about from the readings today, and (2) why.
+3. Write 1–2 paragraphs connecting this week's topic and readings to a recent or current event.
+
+We will then (1) break into smaller groups and talk about what you wrote about recent/current events and (2) talk about those group discussions all together. This will get us all ready and excited to start talking about the main readings!
+
+## Grading
+
+Each check-in and warm-up activity is worth 20.5 points:
+
+- **8.5 points for attendance and preparation**:^[Note the weird 1.5 points for the attendance question—that's so I can look at the gradebook in iCollege and quickly see who is there or not, since they'll have a 0.5 in their score.] Please be honest. It is unlikely that you'll score an 8.5 every week, and that’s okay! Life is busy! I will shift the distribution of everyone's final preparation score up at the end of the course.
+- **12 points** (6 points each) **for each of the two writing prompts**: I will grade these based on completion using a check system:
+  - ✔+: (*8 points (133%) in gradebook*) Response shows phenomenal thought and engagement with the course content. I will not assign these often.
+  - ✔: (*6 points (100%) in gradebook*) Response is thoughtful, well-written, and shows engagement with the course content. This is the expected level of performance.
+  - ✔−: (*3 points (50%) in gradebook*) Response is hastily composed, too short, and/or only cursorily engages with the course content. This grade signals that you need to improve next time. I will hopefully not assign these often.
+
+I will collect these papers during class, input them into iCollege during a break in class, and you'll get them back to keep for note-taking and future reference.
+
+If you can't come to class for whatever reason, you can still submit your check-in and warm-up via email—you won't get the 1.5 points for being there, and you'll miss out on the group dynamics and discussion, but you won't be overly penalized.
+
+Like your [reading report assignment](/assignment/reading-report.qmd), this is essentially a pass/fail or completion-based system. I'm not counting the exact number of words you're writing, and I'm not looking for encyclopedic citations of every single reading to prove that you did indeed read everything. I'm looking for thoughtful engagement. That's all. Do good work and you'll get a ✓.

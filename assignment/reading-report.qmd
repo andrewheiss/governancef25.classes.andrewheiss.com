@@ -34,21 +34,21 @@ Use headings in Word or Google Docs or whatever program you write in. Cite your 
 
 ## Report template
 
-### Synthesis and internal connections
+#### Synthesis and internal connections
 
 Write 1–2 paragraphs about the connections that you found between the readings. What did the authors agree with? What did they disagree with? Are there contradictory findings?
 
 ([Watch this](https://www.youtube.com/watch?v=R_rnkM7jvlY) for a good definition and overview of what synthesis is and how it's different from summarizing—you should integrate multiple details from multiple texts to generate a new, bigger thought. Check your work with [The Synthesis Test](https://www.youtube.com/watch?v=R_rnkM7jvlY&t=241s).)
 
-### Broader themes and class connections
+#### Broader themes and class connections
 
 Write 1 paragraph connecting these readings to things and ideas that we've discussed in class. What do the themes from these readings add to your global bureaucracy toolbox?
 
-### Surprises
+#### Surprises
 
 Write 1 paragraph about what surprised/delighted/confused/annoyed you the most in the readings and why.
 
-### References
+#### References
 
 This will be generated automatically if you use Zotero.
 :::

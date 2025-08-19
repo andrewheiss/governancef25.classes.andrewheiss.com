@@ -6,11 +6,11 @@ title: "Assignments"
 
 You will get the most out of this seminar if you (1) attend regularly, (2) engage with the readings, and (3) write thoughtfully.
 
-To help you do all this successfully, there are two assignments that serve as [commitment devices](https://en.wikipedia.org/wiki/Commitment_device) for pre-seminar preparation:
+There are two assignments to help you with this:
 
-- **Reading reports**: Before class on Thursdays, you should complete all the readings and write a short summary of what you read. **You should [follow this template and instructions](/assignment/reading-report.qmd).** These are due by 11:59 PM on the day before class (e.g., the reading report for Thursday, September 5's seminar is due at 11:59 PM on Wednesday, September 4).
+- **Reading reports**: Before class on Thursdays, you should complete all the readings and write a short summary of what you read. **You should** [**follow this template and instructions**](/assignment/reading-report.qmd)**.** These are due by 11:59 PM on the day before class (e.g., the reading report for Thursday, September 4's seminar is due at 11:59 PM on Wednesday, September 5).
 
-- **Check-in and warm-up**: TODO [**Complete instructions and details for this assignment are here.**](/assignment/check-in-warm-up.qmd)
+- **Check-in and warm-up**: At the beginning of class each week, you'll spend some time reporting your preparation and thinking/writing about the readings to help get warmed up for the discussion. [**See this for complete instructions and details.**](/assignment/check-in-warm-up.qmd)
 
 
 ## Essays
@@ -24,7 +24,7 @@ Over the course of the semester, you will write two short essays (1,250 words ea
 
 ## Final project
 
-For your final project, you will write a policy brief (3,000 words; including footnotes but excluding references). A policy brief is a concise summary of a particular issue, the policy options to deal with it, and some recommendations about the best option. In general, it is written for a non-specialized audience such as policymakers, NGO staff, journalists, and the general public. For this assignment, though, your policy brief readers are policymakers (politicians or civil servants). Assume that your readers do not have detailed knowledge about the topic/issue you explore. They are also not scientists or experts in the area of your choice. Assume that the policymakers are busy and they need to quickly understand your arguments.
+For your [final project](/assignment/policy-brief.qmd), you will write a policy brief (3,000 words; including footnotes but excluding references). A policy brief is a concise summary of a particular issue, the policy options to deal with it, and some recommendations about the best option. In general, it is written for a non-specialized audience such as policymakers, NGO staff, journalists, and the general public. For this assignment, though, your policy brief readers are policymakers (politicians or civil servants). Assume that your readers do not have detailed knowledge about the topic/issue you explore. They are also not scientists or experts in the area of your choice. Assume that the policymakers are busy and they need to quickly understand your arguments.
 
 There are two types of policy brief: (1) advocacy briefs that argue in favor of a particular course of action, and (2) objective briefs that gives balanced information for the policymaker to make up their decision. You will choose either of these types.
 You will write your brief about one specific topic. Topic examples include (but are not limited to!) questions like:
@@ -42,4 +42,4 @@ The narrower the issue is, the better your policy brief will be! I *highly encou
 
 ## Exams
 
-There are no exams! Read a bunch of things, write some things, participate in class. That's it.
+There are no exams! Read a bunch of things, write a bunch of things, participate in class. That's it.

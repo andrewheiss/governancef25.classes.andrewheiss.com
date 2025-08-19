@@ -19,7 +19,9 @@ references:
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
 library(dplyr)
 library(tibble)
-library(pander)
+library(tinytable)
+
+knitr::opts_chunk$set(fig.align = "center")
 ```
 
 :::: {.grid .course-details .course-details-smaller}
@@ -67,24 +69,24 @@ By the end of this course, you will (1) understand the varieties of the public a
 
 ## Course materials
 
-There is no textbook for this class, and all of the readings are free (!!). You will need to read 2–5 readings (generally policy papers and academic research articles) for each class session, and all of these readings will be available through the GSU library or through iCollege.
-
 ::: {.callout-warning}
 ### Don't buy anything!
 
 **Do not purchase any articles for this class—all readings are freely accessible on iCollege.**
 :::
 
+There is no textbook for this class, and all of the readings are free (!!). You will need to read 2–5 readings (generally policy papers and academic research articles) for each class session, and all of these readings will be available through the GSU library or through iCollege.
+
+You're also expected to use quality news sources (e.g. *The New York Times*, *The Washington Post*, *The Economist*, *The Wall Street Journal*, *The Guardian*, or high quality blogs or online publications) to keep up with current events and policy debates related to the class.
+
 
 ## Attendance and participation
 
-You're expected to come to class each Thursday prepared, having (1) carefully read the material and (2) completed the weekly reading report.
+You're expected to read all class materials *before* each class and come prepared for class discussions. Anyone may be called on to discuss some aspect of the assigned readings. Therefore, (1) come to class on time, (2) read and think and write about the material beforehand, and (3) prepare to contribute as if this were a real policy forum or bureaucratic strategy meeting.
 
-Attendance and participation are crucial to your success in this course. However, we're still in the middle of a global pandemic. If you are sick or are incapable of participating meaningfully in class (e.g. you have stayed up all night and are going to fall asleep in class), please stay home. I will stream our in-person sessions on Thursdays via Webex (and will set up my own camera and microphone system to do it), so if you cannot attend, you can tune in if needed.
+Attendance and participation are crucial to your success in this course. However, we're still in the middle of a global pandemic. If you are sick or are incapable of participating meaningfully in class (e.g. you have stayed up all night and are going to fall asleep in class), please stay home.
 
 GSU has some new process for getting absences excused because of illness, but I don't care about that process. If you're sick, I don't need a doctor's note or anything. If a relative dies and you have to attend a funeral, do it!—don't worry about sending me confirmation or anything. If you have kids and your childcare situation falls through one week, focus on your kids!—again, don't worry about sending me confirmation. You're all adults—I trust you.
-
-If you test positive for COVID-19, hunker down and focus on getting better! Please do not come to class. 
 
 
 ## AI, large language models, and bullshit
@@ -101,7 +103,7 @@ There's a reason most university classes require some sort of writing, like read
 
 > Writing is hard because the process of getting something onto the page helps us figure out what we think—about a topic, a problem or an idea. If we turn to AI to do the writing, we're not going to be doing the thinking either. That may not matter if you're writing an email to set up a meeting, but it will matter if you're writing a business plan, a policy statement or a court case. [@Rosenzweig:2023]
 
-Using LLMs and AI to generate a reflection on the week's readings or to generate a policy brief will not help you think through the materials. You can create text and meet the suggested word count and finish the assignment, but the text will be meaningless. There's an official philosophical term for this kind of writing: [bullshit](https://doi.org/10.1007/s10676-024-09775-5) [@HicksHumphriesSlater:2024; @Frankfurt:2005].^[I'm a super straight-laced Mormon and, like, never ever swear or curse, but in this case, the word has a formal philosophical meaning [@Frankfurt:2005], so it doesn't count :)]
+Using LLMs and AI to generate a synthesis of the week's readings or to generate a policy brief will not help you think through the materials. You can create text and meet the suggested word count and finish the assignment, but the text will be meaningless. There's an official philosophical term for this kind of writing: [bullshit](https://doi.org/10.1007/s10676-024-09775-5) [@HicksHumphriesSlater:2024; @Frankfurt:2005].^[I'm a super straight-laced Mormon and, like, never ever swear or curse, but in this case, the word has a formal philosophical meaning [@Frankfurt:2005], so it doesn't count :)]
 
 Philosophical bullshit is "speech or text produced without concern for its truth" [@HicksHumphriesSlater:2024, p. 2]. Bullshit isn't truth, but it's also not lies (i.e. the opposite of truth). It's text that exists to make the author sound like they know what they're talking about. A bullshitter doesn't care if the text is true or not—truth isn't even part of the equation:
 
@@ -119,10 +121,7 @@ In your weekly reading reports, I want to see good engagement with the readings.
 
 I will not spend time trying to guess if your assignments are AI-generated.^[There are tools that purport to be able to identify the percentage of a given text that is AI, but they do not work and result in all sorts of false positives.] If you do turn in AI-produced content, I won't automatically give you a zero. I'll grade your work based on its own merits. I've found that AI-produced content will typically earn a ✓− (50%) or lower on my check-based grading system without me even needing to look for clues that it might have come from an LLM. Remember that text generated by these platforms is philosophical bullshit. Since it has nothing to do with truth, it will not—by definition—earn good grades.
 
-
-## Pandemic stuff
-
-### Masks and vaccines
+## Masks and vaccines
 
 ::: {.callout-note appearance="simple"}
 GSU does not require this and I can't require this but I am allowed to urge it so here's me urging it
@@ -132,17 +131,13 @@ Please get the COVID-19 vaccination and a booster shot. It is free. It saves liv
 
 GSU and the University System of Georgia do not have a mask mandate for students or faculty. However, I personally will be wearing a mask when [the CDC's wastewater surveillance ratings for Georgia](https://www.cdc.gov/nwss/rv/COVID19-currentlevels.html) are moderate or above.
 
-**I strongly recommend/urge/encourage you to wear a mask in class on Thursdays** regardless of your vaccination status. I will place a box of disposable masks by the door if you would like one. 
-
-Again, GSU does not require either vaccines or masks, and if you aren't vaccinated or don't wear a mask, there are no penalties.
-
-### Learning during a pandemic
+## Learning in troubled times
 
 Life still sucks right now. None of us is really okay. **We're all just pretending.**
 
-You most likely know people who have lost their jobs, have been hospitalized, or have even died (I myself know people in all those categories). You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!).
+You most likely know people who have lost their jobs, have been hospitalized, or have even died (I myself know people in all those categories). You all have increased (or possibly decreased) work responsibilities and increased family care responsibilities—you might be caring for extra people (young and/or old!) right now, and you are likely facing uncertain job prospects (or have been laid off!). You might know neighbors, relatives, or friends who have been detained or deported. You might face an uncertain legal future yourself.
 
-**I'm fully committed to making sure that you learn everything you were hoping to learn from this class!** I will make whatever accommodations I can to help you finish your problem sets, do well on your projects, and learn and understand the class material. Under ordinary conditions, I am flexible and lenient with grading and course expectations when students face difficult challenges. Under pandemic conditions, that flexibility and leniency is intensified.
+**I'm fully committed to making sure that you learn everything you were hoping to learn from this class!** I will make whatever accommodations I can to help you finish your problem sets, do well on your projects, and learn and understand the class material. Under ordinary conditions, I am flexible and lenient with grading and course expectations when students face difficult challenges. During these troubled times, that flexibility and leniency is intensified.
 
 If you tell me you're having trouble, I will not judge you or think less of you. I hope you'll extend me the same grace.
 
@@ -153,7 +148,6 @@ If you need extra help, or if you need more time with something, or if you feel 
 *Please* sign up for a time to meet with me during student hours at <https://calendly.com/andrewheiss/>. I'm also available through e-mail.
 
 I want you to learn lots of things from this class, but I primarily want you to stay healthy, balanced, and grounded during this crisis.
-
 
 
 ## Course policies
@@ -170,9 +164,9 @@ Please watch this video:
 
 <iframe src="https://player.vimeo.com/video/270014784" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen style="display: block; margin: 0 auto 1rem;"></iframe>
 
-Student hours are set times dedicated to all of you (most professors call these "office hours"; I don't^[There's fairly widespread misunderstanding about what office hours actually are! [Many students often think that they are the times I *shouldn't* be disturbed](https://www.chronicle.com/article/Can-This-Man-Change-How-Elite/245714/), which is the exact opposite of what they're for!]). This means that I will be ~~in my office~~ at home (wistfully) waiting for you to ~~come by~~ talk to me remotely with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns.
+Student hours are set times dedicated to all of you (most professors call these "office hours"; I don't^[There's fairly widespread misunderstanding about what office hours actually are! [Many students often think that they are the times I *shouldn't* be disturbed](https://www.chronicle.com/article/Can-This-Man-Change-How-Elite/245714/), which is the exact opposite of what they're for!]). This means that I will be waiting for you to talk to me (in person or remotely) with whatever questions you have. This is the best and easiest way to find me and the best chance for discussing class material and concerns.
 
-Because of the pandemic, it is easiest to meet with me online via Webex for student hours. [Make an appointment with me here](https://calendly.com/andrewheiss/), and then use this link to talk to me during student hours: <https://gsumeetings.webex.com/meet/aheiss>. You can also find me through e-mail.
+Since my schedule is often chaotic^[Shuttling 5 kids around to different sports and music lessons, parenting while my wife is in her classes (she's a PhD student at UGA), meeting and traveling for research, and so on] I don't have official permanently-set student hours every week. Instead, the best way to meet with me is to [make an appointment with me here](https://calendly.com/andrewheiss/). You can choose an online or in-person slot—if you choose an online slot, the confirmation e-mail will contain a link for a Webex meeting.
 
 ### Late work
 
@@ -213,7 +207,7 @@ Students with special needs should then make an appointment with me during the f
 
 This is a Global Scholar Distinction course. The GSD can be earned by students in any major and demonstrates a readiness to learn and lead with a global perspective. The GSD leads to a badge at graduation that can be added to your LinkedIn profile and other online profiles. [Learn more here](https://international.gsu.edu/initiatives/global-scholar-distinction/).
 
-For more information about study abroad, the free passport initiative, virtual exchange classes and more through the GSU office of International Initiatives, visit <https://international.gsu.edu/>
+For more information about study abroad, the free passport initiative, virtual exchange classes and more through the GSU office of International Initiatives, visit <https://international.gsu.edu/>.
 
 
 ## Assignments and grades
@@ -222,15 +216,17 @@ You can find descriptions for all the assignments on the [assignments page](/ass
 
 ```{r assignments-grades, include=FALSE}
 assignments <- tribble(
-  ~Points, ~Assignment,
-  13 * 20, "Reading reports (13 × 20)",
-  40,      "Presentation and discussion",
-  125,     "Data-based essay",
-  125,     "Theory in real life essay",
-  250,     "Policy brief"
-) %>%
-  mutate(Percent = Points / sum(Points),
-         Percent = scales::percent(Percent))
+  ~Points,   ~Assignment,
+  13 * 20,   "Reading reports (13 × 20)",
+  14 * 20.5, "Check-ins and warm-ups (14 × 20.5)",
+  125,       "Data-based essay",
+  125,       "Theory in real life essay",
+  250,       "Policy brief",
+  3,         "Free points to make the total a nice number"
+) |> 
+  mutate(Percent = Points / sum(Points)) |> 
+  select(Assignment, Points, Percent) |> 
+  janitor::adorn_totals(where = "row")
 
 grading <- tribble(
   ~Grade, ~Range, ~Grade1, ~Range1,
@@ -244,26 +240,32 @@ grading <- tribble(
 ```
 
 ::: {.centered-table}
-```{r show-assignments-table, echo=FALSE, results="asis"}
-assignments_total <- tibble(Assignment = "Total",
-                            Points = sum(assignments$Points),
-                            Percent = NA)
 
-bind_rows(assignments, assignments_total) %>%
-  select(Assignment, Points, Percent) %>%
-  pandoc.table(justify = "lcc", missing = "—")
+```{r show-assignments-table, echo=FALSE}
+assignments |>
+  tt() |> 
+  style_tt(line = "b", line_width = 0.05, line_color = "#d3d8dc") |> 
+  style_tt(i = 7, bold = TRUE, line = "t", line_width = 0.1, line_color = "#d3d8dc") |> 
+  format_tt(j = 3, fn = scales::label_percent()) |> 
+  format_tt(escape = TRUE)
 ```
+
 :::
 
 ::: {.centered-table}
-```{r show-grades-table, echo=FALSE, results="asis"}
-grading %>%
-  pandoc.table(justify = "lclc",
-               col.names = c("Grade", "Range", "Grade", "Range"))
+
+```{r show-grades-table, echo=FALSE}
+grading |>
+  setNames(c("Grade", "Range", "Grade", "Range")) |> 
+  tt() |> 
+  style_tt(line = "b", line_width = 0.05, line_color = "#d3d8dc") |> 
+  style_tt(i = 1, line = "t", line_width = 0.1, line_color = "#d3d8dc") |> 
+  style_tt(j = 2, bootstrap_css = "border-right: 0.1em dashed #d3d8dc;")
 ```
+
 :::
 
 
-## Obscure animals
+## Desserts
 
-Once you have read this entire syllabus and [the assignments page](/assignment/), please [click here](mailto:aheiss@gsu.edu) and e-mail me a picture of the most obscure animal you can think of.
+Once you have read this entire syllabus and [the assignments page](/assignment/index.qmd), please [click here](mailto:aheiss@gsu.edu) and e-mail me a recipe for your favorite dessert. I love cooking ([see here for a feed of some of my cooking adventures](https://bsky.app/search?q=from%3Aandrew.heiss.phd+%23pacooks)) and I'm always on the lookout for new things!
