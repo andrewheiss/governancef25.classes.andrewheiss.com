@@ -22,14 +22,11 @@ date: "2025-08-28"
 - {{< fa file-pdf >}}&ensp;[@Powner:2016]
 
 
-::: {.content-hidden}
-
 ## Materials for today
 
 - [**Slides**](/slides/2025-08-28.html)
 
 - **How the class works**
-  - [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
 
 - **Things they don’t teach you in grad school**
 
@@ -45,9 +42,9 @@ date: "2025-08-28"
       - [OneNote](https://www.onenote.com/?public=1)
       - [Evernote](https://evernote.com/)
     - Things we'll read together:
+      - {{< fa file-pdf >}}&ensp;[@Suzuki:2025]
       - {{< fa file-pdf >}}&ensp;[@MilwardJensenRoberts:2016]
-        - Specifically the essays by (1) Brint Milward, (2) Veronica Junjan & René Torenvlied, and (3) Arjen Boin
-      - {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
+        - Specifically the essays by (1) Brint Milward, and (2) Laura Jensen
 
   - **How to summarize, synthesize, and write about articles**
 
@@ -63,5 +60,3 @@ date: "2025-08-28"
   	- How does it connect to the broader course themes?
   	- How does it connect to current events?
   	- What does it add to our Global Bureaucracy Toolkit^™^?
-
-:::

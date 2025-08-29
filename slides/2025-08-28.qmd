@@ -143,8 +143,7 @@ options(digits = 3, width = 75)
 - Name
 - Where you're from
 - Major / concentration
-- Most boring fact about yourself
-- Why you're taking this class
+- Familiar and unique
 :::
 
 # Building our<br>Global<br>Bureaucracy<br>Toolkit^™^ {background-color="`r clrs[4]`" .white}
@@ -152,10 +151,91 @@ options(digits = 3, width = 75)
 ## Bureaucracies matter {background-color="`r clrs_lt[4]`"}
 
 ::: {.incremental style="font-size: 1.3em;"}
+- Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
 - Good governance saves lives
 - Administrative burdens hurt people
-- Project 2025, Agenda47, and Schedule F
 - We can learn from other countries
+:::
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+\ 
+
+![](img/agenda47-min.png){fig-align="center"}
+
+::: footer
+[Agenda47](https://www.donaldjtrump.com/agenda47/agenda47-president-trumps-plan-to-dismantle-the-deep-state-and-return-power-to-the-american-people){preview-link="true"}
+:::
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+\ 
+
+![](img/project2025-min.png){fig-align="center"}
+
+::: footer
+[Charles F. Kettering Foundation](https://www.kettering.org/news/the-schedule-f-threat-to-democracy-a-project-2025-explainer/){preview-link="true"}
+:::
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](img/usds-logo.png){width="100%"}
+:::
+
+::: {.column width="40%"}
+:::
+
+::::
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+:::: {.columns}
+
+::: {.column width="60%"}
+![](img/usds-logo.png){width="100%"}
+:::
+
+::: {.column width="40%"}
+![](img/doge-logo.png){width="100%"}
+:::
+
+::::
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+\ 
+
+![](img/lisa-cook.png){fig-align="center"}
+
+##
+
+### Bureaucracies <span style="font-size: 50%;">(and this class)</span> are political
+
+\ 
+
+![](img/cdc.png){fig-align="center"}
+
+##
+
+### Good governance saves lives
+
+![](img/usaid-logo.png){fig-align="center"}
+
+::: {.center-text}
+<https://www.impactcounter.com/dashboard>
 :::
 
 ##
@@ -230,21 +310,6 @@ ggplotly(plt)
 <https://www.whitehouse.gov/omb/information-regulatory-affairs/burden-reduction-initiative/>
 :::
 
-##
-
-![](img/project2025-min.png){fig-align="center"}
-
-::: footer
-[Charles F. Kettering Foundation](https://www.kettering.org/news/the-schedule-f-threat-to-democracy-a-project-2025-explainer/){preview-link="true"}
-:::
-
-##
-
-![](img/agenda47-min.png){fig-align="center"}
-
-::: footer
-[Agenda47](https://www.donaldjtrump.com/agenda47/agenda47-president-trumps-plan-to-dismantle-the-deep-state-and-return-power-to-the-american-people){preview-link="true"}
-:::
 
 ##
 
@@ -263,10 +328,10 @@ ggplotly(plt)
 ## How this class works {background-color="`r clrs_lt[1]`"}
 
 ::: {.incremental style="font-size: 1.3em;"}
-- Class website
-- iCollege
-- Weekly assignments
-- Mini presentation
+- Class website + iCollege
+- Follow the news
+- Reading report
+- Check-in and warm-up
 - Essays
 - Final project
 :::
@@ -281,5 +346,5 @@ ggplotly(plt)
 - AI and writing
 - How to read and annotate an article
 - How to summarize, synthesize, and write about articles
-- How do discuss an article in a seminar
+- How to discuss an article in a seminar
 :::
