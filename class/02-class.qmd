@@ -16,11 +16,9 @@ date: "2025-09-04"
 - {{< fa file-pdf >}}&ensp;[@HolmbergRothsteinNasiritousi:2009]
 
 
-::: {.content-hidden}
-
 ## Plan for the day
 
-- [Mini presentation signup sheet](https://docs.google.com/spreadsheets/d/1QDpvQp8iDq0Fgee_1EJfXYsvuC0-Cu6bReUIH3OR4l8/)
+- **Check-in and warm-up**
 
 - **How to discuss an article in a seminar**
 
@@ -35,8 +33,6 @@ date: "2025-09-04"
 
 - **Why does bureaucracy matter and is it going anywhere?**
 
-  - Together: Sections 3.1, 3.2, and 3.3 in [@MeierHill:2005]
-
 - **Defining and measuring governance**
 
   - How can we measure abstract concepts like "governance?"
@@ -44,4 +40,4 @@ date: "2025-09-04"
   - [@Fukuyama:2013]
   - [@HolmbergRothsteinNasiritousi:2009]
 
-:::
+- (if time!) **How to analyze governance data**
