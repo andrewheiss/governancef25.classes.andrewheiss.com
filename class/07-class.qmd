@@ -7,14 +7,12 @@ date: "2025-10-09"
 
 - {{< fa file-pdf >}}&ensp;[@HerreroCangas:2004]
 
-- {{< fa file-pdf >}}&ensp;Chapters 5–6 in [@PutnamLeonardiNanetti:1994]
+- {{< fa file-pdf >}}&ensp;Chapters 5–6 in [@Putnam:1994]
 
 - {{< fa file-pdf >}}&ensp;Chapters 2–3 in [@AhmedPotter:2006]
 
 - {{< fa file-pdf >}}&ensp;[@FoleyEdwards:1996]
 
-
-::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -42,5 +40,3 @@ date: "2025-10-09"
   - [@HerreroCangas:2004]
   - [@FoleyEdwards:1996]
   - [@AhmedPotter:2006]
-
-:::
