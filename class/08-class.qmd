@@ -14,8 +14,6 @@ date: "2025-10-16"
 - {{< fa file-pdf >}}&ensp;[@vanZyl:2014]
 
 
-::: {.content-hidden}
-
 ## Article discussion reminder
 
 **How to discuss an article in a seminar**
@@ -40,5 +38,3 @@ date: "2025-10-16"
   - [@vanZyl:2014]
 
 - **Theory in real life essay**
-
-:::
