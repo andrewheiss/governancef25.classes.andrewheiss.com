@@ -12,3 +12,5 @@
 /temp
 
 /.luarc.json
+
+typst-pdf-stuff/*.pdf

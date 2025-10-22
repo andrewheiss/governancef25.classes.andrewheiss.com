@@ -1,24 +1,32 @@
 ---
 title: "Syllabus"
+pdf-title: "Governance Around the World"
+pdf-subtitle: "PMAP 8441/4441 • Fall 2025"
+pdf-note: |
+  The full version of the course syllabus, schedule, and all course materials is available online at <https://governancef25.classes.andrewheiss.com/>. This is only a partially complete static version.
+pdf-header-left: PMAP 8441/4441
+pdf-header-right: Fall 2025
+pdf-footer-left: Governance Around the World
 reference-location: margin
-references:
-- id: Frankfurt:2005
-  author:
-    - family: Frankfurt
-      given: Harry G.
-  citation-key: Frankfurt:2005
-  event-place: Princeton
-  issued:
-    - year: 2005
-  publisher: Princeton University Press
-  publisher-place: Princeton
-  title: On bullshit
-  type: book
+format: 
+  html: default
+  typst:
+    # COURSE SUBJECT-COURSE NUMBER-FACULTY LAST NAME-CRN-TERMYEAR
+    output-file: "PMAP-8441-HEISS-90387-FA25.pdf"
+    citeproc: true
+    csl: files/bib/chicago-notes.csl
+    include-in-header: 
+      - "typst-pdf-stuff/include-in-header.typ"
+    include-before-body:
+      - "typst-pdf-stuff/note.typ"
+    filters: 
+      - "typst-pdf-stuff/processing.lua"
+    mainfont: Public Sans
+    fontsize: "10pt"
 ---
 
 ```{r setup, message=FALSE, warning=FALSE, include=FALSE}
-library(dplyr)
-library(tibble)
+library(tidyverse)
 library(tinytable)
 
 knitr::opts_chunk$set(fig.align = "center")
@@ -265,7 +273,82 @@ grading |>
 
 :::
 
-
 ## Desserts
 
 Once you have read this entire syllabus and [the assignments page](/assignment/index.qmd), please [click here](mailto:aheiss@gsu.edu) and e-mail me a recipe for your favorite dessert. I love cooking ([see here for a feed of some of my cooking adventures](https://bsky.app/search?q=from%3Aandrew.heiss.phd+%23pacooks)) and I'm always on the lookout for new things!
+
+
+:::::: {.content-visible when-format="typst"}
+
+## Schedule
+
+::: {.schedule-table}
+
+```{r}
+#| label: schedule-table
+#| warning: false
+#| message: false
+#| echo: false
+
+schedule <- read_csv(here::here("data/schedule.csv")) |>
+  mutate(
+    deadline_actual = update(
+      date,
+      hour = hour(deadline),
+      minute = minute(deadline)
+    ),
+    deadline_nice = format(deadline_actual, "%I:%M %p"),
+    date_nice = format(date, format(date, "%B %e"))
+  ) |>
+  mutate(
+    title = case_when(
+      str_detect(class, "class") ~ glue::glue("*{title}*"),
+      !is.na(deadline) ~ glue::glue("{title} _(due by {deadline_nice})_"),
+      .default = title
+    )
+  ) |>
+  select(group, subgroup, date_nice, title)
+
+# Figure out alternating topics for special styling
+tbl_data <- schedule |>
+  group_by(subgroup) |>
+  mutate(
+    is_first = row_number() == 1,
+    subgroup = ifelse(is_first, subgroup, "")
+  ) |>
+  ungroup() |>
+  # Add new rows for the group rows so that the row index values match the tt() table
+  reframe(
+    subgroup = c(NA, subgroup),
+    date_nice = c(NA, date_nice),
+    title = c(NA, title),
+    is_first = c(NA, is_first),
+    .by = group
+  ) |>
+  mutate(row_id = row_number()) |>
+  # Now that we have the correct row numbers, get rid of those placeholder rows
+  drop_na(is_first) |>
+  # Find which subgroup rows cluster together and mark their oddness/evenness
+  mutate(
+    subgroup_sequential = cumsum(is_first),
+    subgroup_highlight = subgroup_sequential %% 2
+  )
+
+# Extract the rows that should be highlighted
+highlight_rows <- tbl_data |>
+  filter(subgroup_highlight == 1) |>
+  pull(row_id)
+
+# Make the table
+tbl_data |>
+  select(subgroup, date_nice, title) |>
+  tt(colnames = FALSE) |>
+  group_tt(i = tbl_data$group) |>
+  style_tt("groupi", bold = TRUE, line = "b", line_width = 0.05) |>
+  style_tt(i = highlight_rows, background = "#eeeeee") |>
+  format_tt(j = 3, markdown = TRUE)
+```
+
+:::
+
+::::::
