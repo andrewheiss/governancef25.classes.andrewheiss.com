@@ -13,10 +13,7 @@ date: "2025-10-23"
 
 - {{< fa file-pdf >}}&ensp;[@Gibson:2017]
 
-::: {.content-hidden}
 
 ## Plan for the day
 
 Discuss this neat stuff.
-
-:::
