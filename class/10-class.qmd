@@ -13,7 +13,6 @@ date: "2025-10-30"
 
 - {{< fa file-pdf >}}&ensp;[@ThomannHupeSager:2018]
 
-::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -37,5 +36,3 @@ date: "2025-10-30"
   - [@SchusterMeyer-SahlingMikkelsen:2020]
   - [@BenatiCoccia:2018]
   - [@ThomannHupeSager:2018] (see [this](https://www.thestar.com/news/canada/2015/04/29/ontarios-winter-roads-are-less-safe-since-privatization-auditor.html) and [this](https://www.statnews.com/2021/04/19/for-profit-nursing-homes-hospices-bad-deal-older-americans/) and [this](https://academic.oup.com/qje/article/137/4/2213/6536944) too)
-
-:::
