@@ -7,8 +7,8 @@ date: "2025-12-03"
 
 - {{< fa file-pdf >}}&ensp;[@Roberts:2017]
 - {{< fa file-pdf >}}&ensp;[@Kim:2017]
-- {{< fa file-pdf >}}&ensp;[@Gomide:2022]
 - {{< fa file-pdf >}}&ensp;[@YenLiuWon:2022]
+- {{< fa file-pdf >}}&ensp;[@Kundu:2023]
 
 **One** of these empirical articles on China:
 
@@ -50,7 +50,7 @@ date: "2025-12-03"
 
 - **Not China**
 
-  - [@Gomide:2022]
+  - [@Kundu:2023]
   - [@YenLiuWon:2022]
 
 - **China**

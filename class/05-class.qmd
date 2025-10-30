@@ -11,6 +11,8 @@ date: "2025-09-25"
 
 - {{< fa file-pdf >}}&ensp;[@Cornell:2013]
 
+- {{< fa file-pdf >}}&ensp;[@ScharpfGlassel:2020]
+
 
 ## Article discussion reminder
 

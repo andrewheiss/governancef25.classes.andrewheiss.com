@@ -9,11 +9,11 @@ date: "2025-11-13"
 
 - {{< fa file-pdf >}}&ensp;[@Brierley:2020]
 
-- {{< fa file-pdf >}}&ensp;[@YanguasBukenya:2016]
-
 - {{< fa file-pdf >}}&ensp;[@WilliamsYecalo-Tecle:2020]
 
 - {{< fa file-pdf >}}&ensp;[@HassanOMealia:2020]
+
+- {{< fa file-pdf >}}&ensp;[@Moscona:2025]
 
 ::: {.content-hidden}
 
@@ -37,8 +37,9 @@ date: "2025-11-13"
 
 - **African public administration**
 
-  - [@Tapscott:2021] and [@YanguasBukenya:2016]
+  - [@Tapscott:2021]
   - [@Brierley:2020] + [Randomized Response Explained](https://www.youtube.com/watch?v=SD7EzSkBXug)
+  - [@Moscona:2025]
   - [@WilliamsYecalo-Tecle:2020]
   - [@HassanOMealia:2020]
 
