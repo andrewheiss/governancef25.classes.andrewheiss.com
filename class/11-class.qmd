@@ -16,37 +16,6 @@ date: "2025-11-06"
 
 - {{< fa file-pdf >}}&ensp;[@PeetersCampos:2021]
 
-::: {.content-hidden}
-
 ## Plan for the day
 
-- **The election**
-
-  - **What happened?**
-    - [Jamelle Bouie](https://bsky.app/profile/jamellebouie.net/post/3laejmbmjgq2o)
-    - [Financial Times](https://bsky.app/profile/jburnmurdoch.bsky.social/post/3lae62iuhaf22) ([full article here](https://archive.is/5yM7S))
-    - Ken White, ["And Yet It Moves"](https://www.popehat.com/p/and-yet-it-moves)
-  - **What's going to happen next?**
-    - Don Moynihan, ["What Happens Next?"](https://donmoynihan.substack.com/p/what-happens-next)
-    - Michael Lewis, [*The Fifth Risk*](https://www.amazon.com/Fifth-Risk-Michael-Lewis/dp/1324002646)
-    - Tom Pepinsky, ["Life in authoritarian states is mostly boring and tolerable"](https://www.vox.com/the-big-idea/2017/1/9/14207302/authoritarian-states-boring-tolerable-fascism-trump)
-    - Tom Pepinsky, ["Living through the Next American Political Order: Institutions Will Comply, and You Will Be Made Complicit"](https://tompepinsky.com/2024/11/06/living-through-the-next-american-political-order-institutions-will-comply-and-you-will-be-made-complicit/)
-    - Human Rights Watch, ["US: Second Trump Term a Threat to Rights in US, World"](https://www.hrw.org/news/2024/11/06/us-second-trump-term-threat-rights-us-world-0)
-    - Anna Merlan, ["Robert F. Kennedy Jr.’s “Make America Healthy Again” Draws Wellness Influencers to MAGA"](https://www.motherjones.com/politics/2024/10/robert-kennedy-donald-trump-make-america-healthy-again/)
-  - **What can we do about it?**
-    - Michael Lewis, [*The Fifth Risk*](https://www.amazon.com/Fifth-Risk-Michael-Lewis/dp/1324002646)
-    - Timothy Snyder, [*On Tyranny*](https://timothysnyder.org/on-tyranny)
-    - Kelly Hayes and Mariame Kaba, [*Let This Radicalize You: Organizing and the Revolution of Reciprocal Care*](https://www.amazon.com/gp/product/1642598275)
-
-- **Weber, Marx, Dependency Theory, and public administration outside of the OECD**
-
-- **Hybrid and heterogenous Latin American bureaucracies**
-
-- **Latin American public administration**
-
-  - [@Chudnovsky:2021] and [@RamosMilanesi:2021]
-  - [@Zurbriggen:2021]
-  - [@MunoBriceno:2023]
-  - [@PeetersCampos:2021]
-
-:::
+Nothing! I'm presenting research at a conference in DC, so there's no class!

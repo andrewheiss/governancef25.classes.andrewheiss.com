@@ -15,7 +15,6 @@ date: "2025-11-13"
 
 - {{< fa file-pdf >}}&ensp;[@Moscona:2025]
 
-::: {.content-hidden}
 
 ## Article discussion reminder
 
@@ -33,7 +32,18 @@ date: "2025-11-13"
 
 ## Plan for the day
 
-- **Review of public administration outside of the OECD + modernization theory**
+- **Weber, Marx, Dependency Theory, and public administration outside of the OECD**
+
+- **Hybrid and heterogenous Latin American bureaucracies**
+
+- **Latin American public administration**
+
+  - [@Chudnovsky:2021] and [@RamosMilanesi:2021]
+  - [@Zurbriggen:2021]
+  - [@MunoBriceno:2023]
+  - [@PeetersCampos:2021]
+
+- **Modernization theory**
 
 - **African public administration**
 
@@ -42,7 +52,3 @@ date: "2025-11-13"
   - [@Moscona:2025]
   - [@WilliamsYecalo-Tecle:2020]
   - [@HassanOMealia:2020]
-
-- **Introduction to orientalism**
-
-:::
