@@ -40,6 +40,11 @@ website:
     image: "/files/social-image-f25.png"
     locale: en_US
 
+  search:
+    location: navbar
+    type: overlay
+    keyboard-shortcut: ["/", "F", "S", "?"]
+
   navbar:
     pinned: true
     background: "#341648"
@@ -54,7 +59,6 @@ website:
   sidebar:
     - title: "Classes"
       style: "docked"
-      search: false
       background: light
       collapse-level: 3
       contents:
